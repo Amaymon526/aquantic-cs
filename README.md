@@ -1,4 +1,4 @@
-!! Only Working on legacy csgo version !!
+!! Only Working on legacy csgo version, do not try this in Live version you can get banned or the cheat dont even work !!
 
 This is only for learning the basics of Revers Engineering and Developing.
 
